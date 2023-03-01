@@ -54,5 +54,3 @@ You can go ahead and mint your own Business Card, free of charge:
 - Marketplace verified smart contract: [0xcF2875CD9E12CCD92fFA27d1cE5845e238B40903](https://mumbai.polygonscan.com/address/0xcF2875CD9E12CCD92fFA27d1cE5845e238B40903#code)
 - Soulbound Card verified smart contract: [0x522b44bD500e5eD5563A36E735690a4a6a0A1473](https://mumbai.polygonscan.com/address/0x522b44bD500e5eD5563A36E735690a4a6a0A1473#code)
 - Oracle address: [0xdDD03F9E31AB2dE5D7DCB261210c3bC76ca62AE8](https://mumbai.polygonscan.com/address/0xdDD03F9E31AB2dE5D7DCB261210c3bC76ca62AE8)
-
-#### Reach out on Twitter: https://twitter.com/0xdeenz
